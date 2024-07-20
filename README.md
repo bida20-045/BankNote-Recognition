@@ -1,9 +1,10 @@
 # Banknote Recognition in Automated Vending Machines using MobileNetV2 CNN achitecture
+##email me for the dataset
 
 
 ## Overview
 
-This project focuses on implementing a Botswana Pula banknote recognition system for use in automated vending machines. The goal is to develop a robust and efficient solution that accurately identifies and classifies banknotes, enabling seamless transactions in vending machines.
+This project focuses on implementing a **Botswana Pula** banknote recognition system for use in automated vending machines. The goal is to develop a robust and efficient solution that accurately identifies and classifies banknotes, enabling seamless transactions in vending machines.
 
 
 ## Getting Started
